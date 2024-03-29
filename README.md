@@ -9,3 +9,8 @@ Install these dependencies (NumPy, OpenCV, Dlib):
 The Dlib library has four primary prerequisites: Boost, Boost. Python, CMake, and X11/XQuartx. If you don't have them, you can read this article to know how to easily install them.
 
 For Anaconda install
+
+
+Run the demo:
+
+python main.py
