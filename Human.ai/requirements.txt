@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+mediapipe
+matplotlib
+seaborn
+tensorflow
+GazeTracking
+dlib
